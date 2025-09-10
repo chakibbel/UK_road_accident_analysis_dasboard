@@ -46,6 +46,9 @@ The dataset used for this analysis contains the following columns:
 
 - **Period of the Day**:
   - Analysis of accidents based on the time of day (morning, afternoon, evening, night), which highlights the periods with the highest number of incidents.
+ 
+## Dashboard Preview  
+![Screenshot_Dashboard](https://github.com/chakibbel/UK_road_accident_analysis_dasboard/blob/main/screenshots/screenshot_dashboard.png)
 
 ## Files in this Repository
 
